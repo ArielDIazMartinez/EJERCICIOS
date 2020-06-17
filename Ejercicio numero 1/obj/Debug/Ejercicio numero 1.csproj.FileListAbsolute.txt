@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 1\obj\Debug\Ejercicio numero 1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 1\bin\Debug\Ejercicio numero 1.exe.config
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 1\bin\Debug\Ejercicio numero 1.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 1\bin\Debug\Ejercicio numero 1.pdb
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 1\obj\Debug\Ejercicio numero 1.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 1\obj\Debug\Ejercicio numero 1.pdb

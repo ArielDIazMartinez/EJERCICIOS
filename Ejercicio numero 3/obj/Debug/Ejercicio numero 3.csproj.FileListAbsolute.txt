@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 3\bin\Debug\Ejercicio numero 3.exe.config
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 3\bin\Debug\Ejercicio numero 3.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 3\bin\Debug\Ejercicio numero 3.pdb
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 3\obj\Debug\Ejercicio numero 3.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 3\obj\Debug\Ejercicio numero 3.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\Ejercicio numero 3\obj\Debug\Ejercicio numero 3.pdb
